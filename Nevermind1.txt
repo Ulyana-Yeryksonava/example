@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head><title>Nevermind,people</title>
+<style>
+body {background: url(photo_2018-05-11_14-18-45.jpg);}
+</style></head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+<p><i>Дамы и господа, внутренней свободы нет вообще, это даже не иллюзия.<br> Это вранье!<br> Свобода есть, как и девственность, как и добродетель, как и честь — одна:<br> она же внутренняя, она же и внешняя.<br> Она не делится, как ломтик сыра или апельсин на части.<br> Но те, кто стремятся к вашему моральному, интеллектуальному и политическому порабощению,<br> уже в течение трехсот лет культивируют идею о двух свободах:<br> внутренней и внешней.</i></p>
+<hr>
+  <p><h2><b><u>Александр Моисеевич Пятигорский</u></b></h2></p>
+<img src=Pyatigorskij.jpg width=190 height=200>
+<p align=left>советский и британский философ, востоковед, писатель,<br> кандидат филологических наук<br>Один из основателей Тартуско-московской семиотической школы,<br> автор текстовой модели коммуникации.</p>
+<a href=http://gtmarket.ru/personnels/alexander-pyatigorskiy/info>read more..</a>
+<p><h3 align=center>Лекции:</h3></p>
+<p align=center>
+<a href=https://youtu.be/k6KiPXTc568>Философия буддизма. Лекция 1<a><br>
+<a href=http://gtmarket.ru/laboratory/basis/3586>Лекции по буддийской философии<a><br>
+<a href=https://youtu.be/v8uj-QNNRn4>Лекции по философии<a><br>
+<a href=https://www.youtube.com/watch?v=1gKxITDdIM8>Мифология и сознание современного человека<a><br>
+<a href=https://www.youtube.com/watch?v=SylUvI7J9l4>Мышление о мышлении: прерывистая дорога философа<a><br>
+<p><h3 align=center>Занятное видео:</h3></p>
+<p align=center>
+<a href=https://youtu.be/W85EBJc4Ajc>Гордон - Диалоги: Мышление о мышлении<a><br>
+<a href=https://filmix.co/dokumentalenye/122074-filosof-sbezhal-2005.html>Философ сбежал - документальный фильм(2005)<a><br>
+<a href=https://www.youtube.com/watch?v=TNY2Aav0ROs>Чистый воздух твоей свободы<a><br></p>
+<p><h3 align=center>Литература:</h3></p>
+<p align=center>
+<a href=https://www.klex.ru/ccg>Вспомнишь странного человека<a><br>
+<a href=http://www.koob.ru/pyatigorskiy_a/ancient_man>Древний человек в городе<a><br>
+<a href=http://www.koob.ru/pyatigorskiy_a/rasskazi_i_sni>Рыссказы и сны<a><br>
+<a href=http://www.koob.ru/pyatigorskiy_a/mishlenie_i_nablyudenie>Мышление и наблюдение<a><br></p>
+<a href=file:///Users/EternalInternal/Documents/html%20nevermind.html>вернуться на главную</a> <div align=right><a href=file:///Users/EternalInternal/Documents/Nevermind2.html>продолжить путешествие</а></div>
+</body>
+</html>
+
